@@ -1,5 +1,5 @@
 title:             SNJ Group
-email:             tresnajati2.com
+email:             tresnajati2@gmail.com
 description:       Papan Pasinaon Aksara Jawa
 author:            Wong Turian
 baseurl:           "/startbootstrap-clean-blog-jekyll"
@@ -8,7 +8,7 @@ url:               "http://pasinaon.jawa.github.io"
 # Social Profiles
 twitter_username:  SBootstrap
 github_username:   Wongturian
-facebook_username: StartBootstrap
+facebook_username: Bagus Aji Pamungkas
 
 # Build settings
 markdown:          kramdown
