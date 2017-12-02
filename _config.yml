@@ -1,0 +1,19 @@
+title:             Wong Turian
+email:             tresnajati2@gmail.com
+description:       Napak tilas jejak Aksara Jawa
+author:            Bagus Aji Pamungkas
+baseurl:           "Napak Tilas jejak Aksara Jawa di Nusantara"
+url:               "http://github.com/Wongturian.github.io"
+
+# Social Profiles
+twitter_username:  @rizky212aditya
+github_username:   Wongturian
+facebook_username: Bagus Aji Pamungkas
+
+# Build settings
+markdown:          kramdown
+paginate:          5
+paginate_path:     "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
